@@ -7,7 +7,7 @@
 
 #pragma once
 
-
+#include "ofMain.h"
 #include <iostream>
 #include "ofx/Geo/Coordinate.h"
 
